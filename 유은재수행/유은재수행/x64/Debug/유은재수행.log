@@ -1,0 +1,6 @@
+﻿  suheng..c
+C:\Users\eunja\OneDrive\바탕 화면\수행평가\유은재수행\유은재수행\suheng..c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eunja\OneDrive\바탕 화면\수행평가\유은재수행\유은재수행\suheng..c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eunja\OneDrive\바탕 화면\수행평가\유은재수행\유은재수행\suheng..c(21,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eunja\OneDrive\바탕 화면\수행평가\유은재수행\유은재수행\suheng..c(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  유은재수행.vcxproj -> C:\Users\eunja\OneDrive\바탕 화면\수행평가\유은재수행\x64\Debug\유은재수행.exe
